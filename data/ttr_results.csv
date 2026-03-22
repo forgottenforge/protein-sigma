@@ -1,0 +1,26 @@
+mutation,ddg_kcal,ddg_kJ,sigma,category,phenotype,onset_actual,onset_predicted
+L55P,3.6,15.062,0.970096,pathogenic (σ<1),FAP,20.0,40.0
+V30M,2.1,8.786,0.951673,pathogenic (σ<1),FAP,33.0,46.1
+Y114C,2.8,11.715,0.960226,pathogenic (σ<1),FAP,30.0,43.3
+D18G,4.0,16.736,0.975069,pathogenic (σ<1),CNS,25.0,38.3
+A25T,3.2,13.389,0.965148,pathogenic (σ<1),CNS,28.0,41.6
+V122I,1.5,6.276,0.944402,pathogenic (σ<1),FAC,60.0,48.5
+T60A,1.8,7.531,0.94803,pathogenic (σ<1),FAP+FAC,45.0,47.3
+I84S,2.0,8.368,0.950457,pathogenic (σ<1),FAP+FAC,42.0,46.5
+S77Y,1.3,5.439,0.941991,pathogenic (σ<1),FAP,55.0,49.3
+E54K,1.6,6.694,0.94561,pathogenic (σ<1),FAP,50.0,48.1
+L58H,2.3,9.623,0.954109,pathogenic (σ<1),FAP,40.0,45.3
+F64L,1.7,7.113,0.946819,pathogenic (σ<1),FAP,48.0,47.7
+I107V,1.4,5.858,0.943195,pathogenic (σ<1),FAC,55.0,48.9
+S50R,1.9,7.95,0.949243,pathogenic (σ<1),FAP,43.0,46.9
+G47R,1.5,6.276,0.944402,pathogenic (σ<1),FAP,52.0,48.5
+T119M,-0.8,-3.347,0.917041,protective,protective,,
+R104H,0.8,3.347,0.935989,pathogenic (σ<1),FAC,65.0,51.3
+A97S,0.6,2.51,0.933599,pathogenic (σ<1),FAP,68.0,52.1
+G6S,0.3,1.255,0.930026,pathogenic (σ<1),FAC,72.0,53.3
+V14A,0.4,1.674,0.931216,pathogenic (σ<1),mixed,70.0,52.9
+Y78F,1.1,4.602,0.939585,pathogenic (σ<1),FAP,58.0,50.1
+A36P,2.5,10.46,0.956551,pathogenic (σ<1),FAP,38.0,44.5
+H88R,0.9,3.766,0.937186,pathogenic (σ<1),FAP,62.0,50.9
+E89K,1.0,4.184,0.938385,pathogenic (σ<1),FAP,57.0,50.5
+V71A,1.2,5.021,0.940787,pathogenic (σ<1),FAP,54.0,49.7

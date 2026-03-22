@@ -1,0 +1,13 @@
+mutation,ddg_kcal,sigma,category,disease,onset_actual,onset_predicted,ddg_source,notes
+E200K,1.75,0.950532,pathogenic (σ<1),fCJD,58,194.9,Liemann & Glockshuber 1999 (range 1.5–2.0),Most common fCJD worldwide
+D178N,2.0,0.954249,pathogenic (σ<1),FFI (129M),50,182.5,Apetri & Bhatt 2003,FFI with 129M; CJD with 129V (onset ~45)
+V210I,0.75,0.93581,pathogenic (σ<1),fCJD,55,244.0,Liemann & Glockshuber 1999 (range 0.5–1.0),Second most common fCJD
+P102L,1.0,0.939469,pathogenic (σ<1),GSS,50,231.8,van der Kamp & Daggett 2010,Classic GSS mutation
+A117V,1.5,0.94683,pathogenic (σ<1),GSS,40,207.2,van der Kamp & Daggett 2010,"GSS variant, relatively early onset"
+F198S,2.5,0.961726,pathogenic (σ<1),GSS,55,157.6,Liemann & Glockshuber 1999,Highly destabilising but late onset — possible gain-of-function component
+V180I,0.3,0.929259,pathogenic (σ<1),fCJD,75,265.8,Apetri & Bhatt 2003,Very mild; common in Japan; late onset
+Q217R,,,no ΔΔG data,GSS,62,,not available,No reliable experimental ΔΔG
+T183A,,,no ΔΔG data,fCJD,45,,not available,No reliable experimental ΔΔG
+M232R,,,no ΔΔG data,fCJD,65,,not available,Common in Japan; no reliable ΔΔG
+E196K,,,no ΔΔG data,fCJD,60,,not available,No reliable experimental ΔΔG
+R208H,,,no ΔΔG data,fCJD,55,,not available,No reliable experimental ΔΔG

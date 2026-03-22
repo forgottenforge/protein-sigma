@@ -1,0 +1,11 @@
+mutation,ddg_kcal,sigma,sigma_ratio,category,onset_actual,onset_predicted
+A4V,2.5,0.933354,1.0269,pathogenic (sigma<1),47,52.2
+G93A,1.0,0.918616,1.0107,pathogenic (sigma<1),45,57.1
+D90A,0.5,0.913756,1.0053,pathogenic (sigma<1),44,58.7
+H46R,3.0,0.938319,1.0323,pathogenic (sigma<1),55,50.6
+G85R,3.5,0.943311,1.0378,pathogenic (sigma<1),45,48.9
+I113T,1.5,0.923503,1.016,pathogenic (sigma<1),58,55.5
+L38V,1.2,0.920568,1.0128,pathogenic (sigma<1),45,56.5
+E100G,2.0,0.928416,1.0214,pathogenic (sigma<1),45,53.9
+G37R,1.8,0.926447,1.0193,pathogenic (sigma<1),35,54.5
+A89V,1.5,0.923503,1.016,pathogenic (sigma<1),48,55.5

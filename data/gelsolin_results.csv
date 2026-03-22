@@ -1,0 +1,6 @@
+mutation,ddg_kcal_mol,ddg_source,dg_mut,sigma,sigma_ratio,sigma_above_wt,onset_obs_yr,onset_pred_yr,reference
+D187N,3.00,experimental,3.00,0.959227,1.0425,True,40,43.6,Maury 1990; Solomon 2009
+D187Y,2.50,experimental,3.50,0.952596,1.0353,True,45,45.8,de la Chapelle 1992; Sethi 2014
+N184K,2.00,estimated,4.00,0.946009,1.0281,True,55,48.0,Gonzalez-Rodriguez 2014 (est.)
+G167R,3.50,DynaMut2 (predicted),2.50,0.965906,1.0498,True,,41.4,Efebera 2014
+A174P,2.80,DynaMut2 (predicted),3.20,0.956569,1.0396,True,,44.5,Maury 2015
