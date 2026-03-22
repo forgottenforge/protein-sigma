@@ -1,9 +1,7 @@
-# ForgottenForge - magnetic feeling
+# ForgottenForge - protein-sigma
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0.en.html)
 [![License: Commercial](https://img.shields.io/badge/License-Commercial-orange)](LICENSE-COMMERCIAL.txt)
-
-# protein-sigma
 
 Code and data for:
 
